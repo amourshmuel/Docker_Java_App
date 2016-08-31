@@ -1,2 +1,2 @@
-FROM amourshmuel/doker_java_app:ver1.0.0
+FROM amourshmuel/docker_java_app
 ENTRYPOINT  ["java", "-jar", "helloworldfrom.jar"]
