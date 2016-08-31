@@ -1,5 +1,6 @@
 ## My journey: Dockerized Java on Apache Mesos Container cluster on Azure. ##
 
+To the post [click](https://blogs.microsoft.co.il/amourshmuel/2016/08/26/my-journey-dockerized-java-on-apache-mesos-container-cluster-on-azure/)
 
 I want to start this journey from the basic. Although I’m pretty sure that [Docker](https://en.wikipedia.org/wiki/Docker_(software)) software solution are known knowledge, the all pack should cover it all.
 
