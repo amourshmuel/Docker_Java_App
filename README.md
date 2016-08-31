@@ -8,7 +8,7 @@ So, what we talking about it to take an exiting solution provided by [Docker Hub
 
 ### The project ###
 
-![Solution architecture](https://github.com/amourshmuel/Docker_Java_App/blob/master/solution_diagtram.png)
+![Solution architecture](https://github.com/amourshmuel/Docker_Java_App/blob/master/solution_diagtram.png?raw=true)
 
 he project will contain the next layers:
 
