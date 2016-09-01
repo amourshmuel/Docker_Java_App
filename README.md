@@ -19,4 +19,5 @@ he project will contain the next layers:
 Let’s start from the top – let’s setup a Docker.
 
 1. [My journey : Dockerized Java on Apache Mesos Container cluster on Azure – Setup a Docker (Part I)](http://blogs.microsoft.co.il/amourshmuel/2016/08/26/my-journey-dockerized-java-on-apache-mesos-container-cluster-on-azure-setup-a-docker/).
-2. [My journey: Dockerized Java on Apache Mesos Container cluster on Azure – Setup a Docker (Part II).](http://blogs.microsoft.co.il/amourshmuel/2016/09/01/my-journey-dockerized-java-on-apache-mesos-container-cluster-on-azure-setup-a-docker-part-ii/)
+2. [My journey: Dockerized Java on Apache Mesos Container cluster on Azure – Setup a Docker (Part II).](http://blogs.microsoft.co.il/amourshmuel/2016/09/01/my-journey-dockerized-java-on-apache-mesos-container-cluster-on-azure-setup-a-docker-part-ii/).
+3. [My journey: Dockerized Java on Apache Mesos Container cluster on Azure – Setup Mesus cluster on Azure](https://blogs.microsoft.co.il/amourshmuel/2016/09/02/my-journey-dockerized-java-on-apache-mesos-container-cluster-on-azure-setup-mesus-cluster-on-azure/).
